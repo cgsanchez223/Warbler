@@ -1,4 +1,5 @@
-Warbler - Twitter Clone
+- Originally created on 7/16/24
+- Warbler - Twitter Clone
 - Created to demonstrate understanding of using Python and Flask to carry out CRUD operations (Create Read Update Delete). App uses API and administration JSON tokens to save user information and store info in database.
 - User can create a profile, see posts from other users, post their own tweet, and follow other users.
 ________________________________________________________________________-
